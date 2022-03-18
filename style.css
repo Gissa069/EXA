@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 33.3%;
+    width: 33.3vw;
     height: 10em;
     background-color: rgba(235, 235, 235, 0.65);
 }
