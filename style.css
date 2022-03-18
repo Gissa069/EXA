@@ -13,8 +13,8 @@
     padding: 10px;
 }
 
-:not(.idee:first-child) {
-    color: blue;
+.idee {
+    margin-top: 10px;
 }
 
 .ideeën-wrapper {
