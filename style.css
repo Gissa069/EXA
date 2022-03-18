@@ -6,15 +6,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 27.5%;
+    width: 75%;
     height: 15em;
     border-radius: 5px;
     background-color: rgba(235, 235, 235, 0.65);
     padding: 10px;
-}
-
-.ideeën-wrapper {
-    display: flex;
-    justify-content: space-evenly;
-    width: 100vw;
 }
