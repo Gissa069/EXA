@@ -12,3 +12,9 @@
     background-color: rgba(235, 235, 235, 0.65);
     padding: 10px;
 }
+
+.ideeën-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
