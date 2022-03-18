@@ -5,7 +5,6 @@
 .idee {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     align-items: center;
     width: 33.3vw;
     height: 15em;
